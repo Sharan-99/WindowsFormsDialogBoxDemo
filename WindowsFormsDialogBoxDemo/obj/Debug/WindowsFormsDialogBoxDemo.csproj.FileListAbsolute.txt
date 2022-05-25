@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\bin\Debug\WindowsFormsDialogBoxDemo.exe.config
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\bin\Debug\WindowsFormsDialogBoxDemo.exe
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\bin\Debug\WindowsFormsDialogBoxDemo.pdb
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\obj\Debug\WindowsFormsDialogBoxDemo.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\obj\Debug\WindowsFormsDialogBoxDemo.Form1.resources
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\obj\Debug\WindowsFormsDialogBoxDemo.Properties.Resources.resources
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\obj\Debug\WindowsFormsDialogBoxDemo.csproj.GenerateResource.cache
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\obj\Debug\WindowsFormsDialogBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\obj\Debug\WindowsFormsDialogBoxDemo.exe
+C:\Users\2091199\source\repos\WindowsFormsDialogBoxDemo\WindowsFormsDialogBoxDemo\obj\Debug\WindowsFormsDialogBoxDemo.pdb
